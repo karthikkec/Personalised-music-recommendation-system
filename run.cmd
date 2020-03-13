@@ -1,2 +1,2 @@
-py emotions.py --mode display 
+py -i emotions2.py --mode display 
 pause
